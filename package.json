@@ -1,0 +1,14 @@
+{
+	"name": "caniemail-embed-screenshots",
+	"version": "1.0.0",
+	"description": "Generates screenshot for Can I email embed.",
+	"main": "main.js",
+	"private": true,
+	"scripts": {
+		"build": "node main.js"
+	},
+	"dependencies": {
+		"xmlhttprequest": "^1.8.0",
+		"puppeteer": "^5.5.0"
+	}
+}
