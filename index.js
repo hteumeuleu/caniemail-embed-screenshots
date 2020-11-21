@@ -38,7 +38,7 @@ var XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
 
 	    screenshots.push({
 	        feature: feature,
-	        screenshot: await page.screenshot({path: `${feature}.png`})
+	        screenshot: await page.screenshot({path: `screenshots/${feature}.png`})
 	    });
 	}
 
