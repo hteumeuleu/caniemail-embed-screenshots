@@ -43,5 +43,5 @@ var XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
 	}
 
 	await browser.close();
-	return screenshots;
+	return 0;
 })();
