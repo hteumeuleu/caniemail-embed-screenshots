@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"description": "Generates screenshot for Can I email embed.",
 	"main": "main.js",
-	"private": true,
+	"private": false,
 	"scripts": {
 		"build": "node main.js"
 	},
