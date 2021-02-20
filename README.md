@@ -12,5 +12,5 @@ npm install xmlhttprequest
 ## Run
 
 ```
-node index.js
+node main.js
 ```
